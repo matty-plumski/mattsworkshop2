@@ -76,6 +76,9 @@ projects:
 slides: example
 ---
 
+I love coffee. I need coffee.
+
+
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
