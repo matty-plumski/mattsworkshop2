@@ -76,7 +76,7 @@ projects:
 slides: example
 ---
 
-I love coffee. I need coffee.
+~~I love coffee~~. I need coffee.
 
 
 {{% callout note %}}
