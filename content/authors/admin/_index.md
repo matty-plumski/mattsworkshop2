@@ -6,21 +6,24 @@ title: Matt Plummer
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Digital Research Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Victoria University of Wellington
+  url: https://www.wgtn,ac,nz
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Digital interpreter with a background in the arts and technology.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Digital Humanities
+- Researcher Development
+- High Performance Computing
+- Audio/visual Performance
+- Web Design
+
 
 # Education to show in About widget
 education:
@@ -70,8 +73,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Matt’s background spans the arts and technology, working as an Art History Teaching Fellow and Visual Resources Administrator before taking up a position in Victoria University of Wellington’s Information Technology unit.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In his current role as a Digital Research Consultant, he acts as a ‘digital interpreter’, working with researchers from different disciplines to utilise technology in innovative and transformative ways. He has assisted with the development of open source projects and research tools, coordinated numerous community-building and training events, and enjoys the opportunity to introduce researchers to new approaches and collaborators.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
