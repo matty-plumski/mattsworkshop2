@@ -1,9 +1,9 @@
 ---
-# Hero widget.
-widget = "hero"  # See https://wowchemy.com/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+
+widget: hero  # See https://wowchemy.com/docs/page-builder/
+headless: true  # This file represents a page section.
+active: true  # Activate this widget? true/false
+weight: 10  # Order that this section will appear.
 
 # title = "Arts meets technology"
 
@@ -55,4 +55,4 @@ weight = 10  # Order that this section will appear.
 
 
 
-<span style="text-shadow: none;"><a href="https://thenounproject.com/bdreava/">Image: Bogdan Dreava</a></script></span>
+<span style="text-shadow: none;"><a href="https://thenounproject.com/bdreava/"></a></script></span>
