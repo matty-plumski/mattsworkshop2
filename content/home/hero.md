@@ -5,6 +5,8 @@ headless: true
 weight: 10
 title: Hugo Academic Starter
 hero_media: law_library.jpg
+image_size: cover
+
 cta:
   label: '**Get Started**'
   url: https://wowchemy.com/templates/
