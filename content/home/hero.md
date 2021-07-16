@@ -5,7 +5,6 @@ headless: true
 weight: 10
 title: Arts meet technology
 hero_media: law_library.jpg
-image_size: cover
 
 
 design:
