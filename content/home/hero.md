@@ -14,10 +14,8 @@ design:
     text_color_light: true
     image: law_library.jpg
     image_size: cover
-advanced:
-  css_class: fullscreen
+
 ---
 
-**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
-
-**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
+advanced:
+  css_class: fullscreen
