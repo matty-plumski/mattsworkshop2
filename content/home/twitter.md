@@ -39,3 +39,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+<a class="twitter-timeline" href="https://twitter.com/matty_plumski?ref_src=twsrc%5Etfw">Tweets by matty_plumski</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
