@@ -14,7 +14,6 @@ design:
     image: law_library.jpg
     image_size: cover
 
-advanced:
-  css_class: fullscreen
+
 
 ---
