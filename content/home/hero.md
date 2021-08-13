@@ -4,7 +4,7 @@ widget: hero
 headless: true
 weight: 10
 title: Arts meet technology
-hero_media: law_library.jpg
+hero_media: icon.jpg
 
 
 design:
@@ -16,6 +16,3 @@ design:
     image_size: cover
 
 ---
-
-advanced:
-  css_class: fullscreen
